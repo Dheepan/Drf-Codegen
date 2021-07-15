@@ -1,0 +1,5 @@
+need to write code for urls.py - TBD
+need to add comment on admin - ?
+need to write code for tests.py -TBD
+Need to rewrite Views - TBD
+Need to read two scoops and watch videos - TBD
