@@ -6,6 +6,10 @@ and run: Python3 codegen.py
 
 Your admin.py, serializers.py and views.py skeleton files will be auto generated.
 
+Its just a beta version, please feel free to modify, improve and use it.
+
+Thanks.
+
 
 
 
