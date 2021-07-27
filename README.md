@@ -1,4 +1,4 @@
-Just a project to auto generate Django rest framework code based on maodels.py file.
+Just a project to auto generate Django rest framework code based on models.py file.
 
 Place your models.py file under project_code directory
 
